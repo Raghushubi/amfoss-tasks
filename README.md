@@ -8,5 +8,5 @@ On account of technological advancement , the situations in which programming is
 #WHAT'S YOUR PLAN FOR THE NEXT 6 MONTHS?
 I wish to improve my coding and problem solving skills and become a better version of myself.
 #HOW WOULD YOU CONTRIBUTE BACK TO THE CLUB?
-I would involve in all activities of the club and participate actively with team spirit , with a view to improve my overall performance as well as the image of the club.
+I would involve in all activities of the club and participate actively with team spirit , with a view to improve my overall performance as well as the image of the club
 
