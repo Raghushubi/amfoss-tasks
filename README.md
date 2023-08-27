@@ -25,6 +25,6 @@ I wish to improve my coding and problem solving skills and become a better versi
 
 
 
-# HOW WOULD YOU CONTRIBUTE BACK TO THE CLUB?
+#  HOW WOULD YOU CONTRIBUTE BACK TO THE CLUB?
 I would involve in all activities of the club and participate actively with team spirit , with a view to improve my overall performance as well as the image of the club
 
