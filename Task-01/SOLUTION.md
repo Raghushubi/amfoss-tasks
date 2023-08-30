@@ -10,12 +10,12 @@ For authentication:
 3)gh auth login
 
 
-To clone the reposit
+To clone the repository:
 
 4)git clone 
 
 
-To make a directory titled codes I used:
+To make a directory 'codes':
 
 5)cd 
 
