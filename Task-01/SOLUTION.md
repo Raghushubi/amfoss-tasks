@@ -20,3 +20,10 @@ To make a directory 'codes':
 5)cd 
 
 6)mkdir
+
+To execute a spell:
+
+7)python3 spellname.py
+
+
+
