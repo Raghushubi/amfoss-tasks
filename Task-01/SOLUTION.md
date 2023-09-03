@@ -49,7 +49,8 @@
 11)git checkout <branch name> -- <file path>
 
 
-To check the commit logs of the repository:
+##To check the commit logs of the repository:
+
 
 12)git log
 
