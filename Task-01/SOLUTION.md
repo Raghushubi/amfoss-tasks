@@ -15,14 +15,14 @@ For authentication:
 To clone the repository:
 
 
-4)git clone <repository link>
+4)git clone <repositorylink>
 
 
 To make a directory 'codes':
 
-5)cd <repository name>
+5)cd <repositoryname>
 
-6)mkdir <directory name>
+6)mkdir <directoryname>
 
 To execute a spell:
 
@@ -41,12 +41,12 @@ To see all local and remote branches:
 
 To switch to a new branch:
 
-10)git checkout <branch name>
+10)git checkout <branchname>
 
 
 To copy specific file to main branch:
 
-11)git checkout <branch name> -- <file path>
+11)git checkout <branchname> -- <filepath>
 
 
 To check the commit logs of the repository:
@@ -65,7 +65,7 @@ To get path of a file:
 
 To move a file from one repository to another:
 
-15) mv <path of the file to be moved> <path where it's to be moved to>
+15) mv <path-of-the-file-to-be-moved> <path-where-it's-to-be-moved-to>
 
 To commit changes and push changes to github:
 
@@ -75,13 +75,13 @@ To commit changes and push changes to github:
 
 18)git rm <filename>
 
-19)git commit -m '<commit message>'
+19)git commit -m '<commit-message>'
 
 20)git push
 
 To decode from base64:
 
-21)echo <encoded phrase> | base64 --decode
+21)echo <encoded-phrase> | base64 --decode
 
 To check the contents:
 
