@@ -33,9 +33,9 @@ I would involve in all activities of the club and participate actively with team
 --------------|---------------|---------------
 [Task-00](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-00)|Install Linux|Completed
 [Task-01](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-01)|Terminal Wizard|Completed
-[Task-02](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-02)|Lessgo Hugo|Pending
-[Task-03](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-03)|Hello, World|Pending
-[Task-04](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-04)|Competitive Programming|Pending
+[Task-02](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-02)|Lessgo Hugo|Completed
+[Task-03](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-03)|Hello, World|Partially Completed
+[Task-04](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-04)|Competitive Programming|Partially Completed
 [Task-05](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-05)|Hypertext Mockup Language|Pending
 [Task-06](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-06)|Cricket Vault|Pending
 [Task-07](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-07)|AK-47|Pending
@@ -46,6 +46,6 @@ I would involve in all activities of the club and participate actively with team
 [Task-12](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-12)|Godot|Pending
 [Task-13](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-13)|Vim|Pending
 [Task-14](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-14)|Bandit|Pending
-[Task-15](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-15)|Project Euler|Pending
+[Task-15](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-15)|Project Euler|Completed
 
 
