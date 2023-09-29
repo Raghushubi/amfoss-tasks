@@ -32,7 +32,7 @@ I would involve in all activities of the club and participate actively with team
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Task-00](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-00)|Install Linux|Completed
-[Task-01](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-01)|Terminal Wizard|Pending
+[Task-01](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-01)|Terminal Wizard|Completed
 [Task-02](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-02)|Lessgo Hugo|Pending
 [Task-03](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-03)|Hello, World|Pending
 [Task-04](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-04)|Competitive Programming|Pending
