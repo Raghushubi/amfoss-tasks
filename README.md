@@ -45,7 +45,7 @@ I would involve in all activities of the club and participate actively with team
 [Task-11](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-11)|TinkerCAD|Pending
 [Task-12](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-12)|Godot|Pending
 [Task-13](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-13)|Vim|Pending
-[Task-14](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-14)|Bandit|Pending
+[Task-14](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-14)|Bandit|Completed
 [Task-15](https://github.com/Raghushubi/amfoss-tasks/tree/main/Task-15)|Project Euler|Completed
 
 
