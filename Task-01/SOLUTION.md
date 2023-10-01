@@ -77,15 +77,17 @@ To commit changes and push changes to github:
 
   19)git commit -m '*commit-message*'
 
-  20)git push
+  20)git pull origin main
+
+  21)git push origin main
 
 To decode from base64:
 
-  21)echo *encoded-phrase* | base64 --decode
+  22)echo *encoded-phrase* | base64 --decode
 
 To check the contents:
 
-  22)ls
+  23)ls
 
 
 
